@@ -1,5 +1,7 @@
 <!-- ## Hi there 👋 -->
-[![Discord Banner](https://discordapp.com/api/guilds/902455720786661387/widget.png?style=banner2)](https://discord.gg/RxzT89NFmt)
+> [![Discord Banner](https://discordapp.com/api/guilds/902455720786661387/widget.png?style=banner2)](https://discord.gg/RxzT89NFmt)
+> 
+> [![Twitter](https://img.shields.io/badge/Twitter-@corcc_tweet-48f.svg)](https://twitter.com/corcc_tweet)
 <!--
 
 **Here are some ideas to get you started:**
