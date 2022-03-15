@@ -31,6 +31,7 @@
   <img src="https://github.com/corcc/corcc/raw/use-recursive-save/badge/vaccination/counter/today/firstCnt.svg">
   <img src="https://github.com/corcc/corcc/raw/use-recursive-save/badge/vaccination/counter/today/secondCnt.svg">
   <img src="https://github.com/corcc/corcc/raw/use-recursive-save/badge/vaccination/counter/today/thirdCnt.svg">
+  <img src="https://github.com/corcc/corcc/raw/use-recursive-save/badge/vaccination/counter/today/fourCnt.svg">
   <img src="https://github.com/corcc/corcc/raw/use-recursive-save/badge/vaccination/counter/today/dataTime.svg">
 	</a>
 </p>
