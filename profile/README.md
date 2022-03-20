@@ -15,10 +15,10 @@
   🦠
  </a>
  <a href="https://github.com/corcc/corcc">
-  <img src="https://github.com/corcc/corcc/raw/badge/dark-background/badge/case/counter/confirmed.svg">
-  <img src="https://github.com/corcc/corcc/raw/badge/dark-background/badge/case/counter/deaths.svg">
-  <img src="https://github.com/corcc/corcc/raw/badge/dark-background/badge/case/counter/recovered.svg">
-  <img src="https://github.com/corcc/corcc/raw/badge/dark-background/badge/case/counter/dataTime.svg">
+  <img src="https://corcc.github.io/corcc/badge/case/counter/confirmed.svg">
+  <img src="https://corcc.github.io/corcc/badge/case/counter/deaths.svg">
+  <img src="https://corcc.github.io/corcc/badge/case/counter/recovered.svg">
+  <img src="https://corcc.github.io/corcc/badge/case/counter/dataTime.svg">
 	</a>
 </p>
 
@@ -28,11 +28,11 @@
   💉
 	</a>
  <a href="https://github.com/corcc/corcc">
-  <img src="https://github.com/corcc/corcc/raw/badge/dark-background/badge/vaccination/counter/today/firstCnt.svg">
-  <img src="https://github.com/corcc/corcc/raw/badge/dark-background/badge/vaccination/counter/today/secondCnt.svg">
-  <img src="https://github.com/corcc/corcc/raw/badge/dark-background/badge/vaccination/counter/today/thirdCnt.svg">
-  <img src="https://github.com/corcc/corcc/raw/badge/dark-background/badge/vaccination/counter/today/fourCnt.svg">
-  <img src="https://github.com/corcc/corcc/raw/badge/dark-background/badge/vaccination/counter/today/dataTime.svg">
+  <img src="https://corcc.github.io/corcc/badge/vaccination/counter/today/firstCnt.svg">
+  <img src="https://corcc.github.io/corcc/badge/vaccination/counter/today/secondCnt.svg">
+  <img src="https://corcc.github.io/corcc/badge/vaccination/counter/today/thirdCnt.svg">
+  <img src="https://corcc.github.io/corcc/badge/vaccination/counter/today/fourCnt.svg">
+  <img src="https://corcc.github.io/corcc/badge/vaccination/counter/today/dataTime.svg">
 	</a>
 </p>
 
