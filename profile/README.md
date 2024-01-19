@@ -23,6 +23,20 @@
 	</a>
 </p>
 
+<!-- Latest Cases Badge from corcc/corcc-case-weekly -->
+<p align="center">
+ <a href="https://ncov.kdca.go.kr/bdBoardListR.do">
+  🦠
+ </a>
+ <a href="https://github.com/corcc/corcc-case-weekly">
+  <img src="https://corcc.github.io/corcc-case-weekly/badge/start.svg">
+  <img src="https://corcc.github.io/corcc-case-weekly/badge/end.svg">
+  <img src="https://corcc.github.io/corcc-case-weekly/badge/total.svg">
+  <img src="https://corcc.github.io/corcc-case-weekly/badge/weekly.svg">
+	</a>
+</p>
+
+
 <!-- Latest Vaccinations -->
 <p align="center">
  <a href="https://ncv.kdca.go.kr/eng">
